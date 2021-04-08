@@ -179,7 +179,7 @@ function loop() {
 }
 
 function updateDisplay() {
-    data[0].innerHTML="lifes:"+LIFE;
+    data[0].innerHTML="lives:"+LIFE;
     data[2].innerHTML="Score:"+SCORE;
 }
 
